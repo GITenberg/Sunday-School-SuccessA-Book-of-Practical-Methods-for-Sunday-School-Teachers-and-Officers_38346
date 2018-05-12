@@ -1,0 +1,30 @@
+_repo: Sunday-School-SuccessA-Book-of-Practical-Methods-for-Sunday-School-Teachers-and-Officers_38346
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38346-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wells, Amos R. (Amos Russel)
+    alias: Wells, Amos Russel
+    birthdate: 1862
+    deathdate: 1933
+    gutenberg_agent_id: '39415'
+    url: http://www.gutenberg.org/2009/agents/39415
+description: ''
+gutenberg_issued: '2011-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38346'
+  lccn: '12039907'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Sunday schools'
+title: 'Sunday-School Success
+
+  A Book of Practical Methods for Sunday-School Teachers and Officers'
+url: http://www.gutenberg.org/ebooks/38346
